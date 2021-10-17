@@ -1,0 +1,33 @@
+
+body {
+    background: linear-gradient(rgba(163, 47, 128, 0.582), rgb(255, 244, 206));
+    font: 500 30px/1.6 "Source Sans Pro", Comic Sans MS;
+    margin: 0;
+    padding: 22em 0 22em;
+    text-align: center;
+}
+
+[id="error1"] {
+    color: rgb(134, 32, 32);
+}
+
+[id="error2"] {
+    color: rgb(134, 32, 32);
+}
+
+[type="text"] {
+    font-size: 20pt;
+}
+
+button {
+    border: 0;
+    background: rgba(194, 132, 184, 0.952);
+    color: #032d3d;
+    cursor: pointer;
+    float: center;
+    font: inherit;
+    margin: 1em;
+    width: 2em;
+    height: 2em;
+    font-size: 30pt;
+  }
